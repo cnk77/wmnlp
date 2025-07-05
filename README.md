@@ -6,3 +6,7 @@ To be submitted for credit, all changes must be committed and pushed to this rep
 ## Rubric
 
 Each question is worth one point.
+
+## Kyle Hudson 44-620 Summer 2025
+
+The method I used for converting the Jupyter Notebooks to HTML was in VS Code. With the notebook open, I clicked on the Export button and selected HTML as the file type.
